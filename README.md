@@ -1,1 +1,1 @@
-# Security-SOlution
+# Security-Solution
