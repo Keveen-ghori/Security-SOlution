@@ -1,0 +1,13 @@
+@media screen and (max-width: 700px){
+    .finalsection {
+       
+        height: 70vh;
+
+    }
+    .fbox {
+        height: 343px;
+    }
+    .inp {
+        padding: 50px 100px 50px 100px;
+    }
+}

@@ -1,0 +1,9 @@
+@media screen and (max-width: 650px){
+    .SecondSection .ssbtn{
+        display: grid;
+    }
+    .SecondSection {
+        padding: 100px 40px;
+    }
+  
+}

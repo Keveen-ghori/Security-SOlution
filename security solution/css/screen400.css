@@ -1,0 +1,59 @@
+@media screen and (max-width: 400px){
+    .wrapper nav{
+      padding: 0 10px;
+    }
+    .content .logo a{
+      font-size: 23px;
+    }
+    .wrapper .search-box{
+      max-width: calc(100% - 70px);
+    }
+    .wrapper .search-box .go-icon{
+      width: 30px;
+      right: 0;
+    }
+    .wrapper .search-box input{
+      padding-right: 30px;
+    }
+  }
+  @media screen and (max-width: 400px){
+    .pera{
+        padding: 0 13px;
+    }
+    .content1{
+        padding: 50px 00px;
+    }
+    .home .content1 .pera h1 {
+        font-size: 26px;
+        line-height: 25px;
+    }
+    .home .content1 .pera h1 span{
+        font-size: 10px;
+       
+    }
+    .home .content1 .pera a{
+        font-size: 10px;
+    }
+    .home .content1 .pera p {
+        font-size: 10px;
+    }
+      .finalsection {
+         
+        height: 90vh;
+  
+    }
+    .fbox{
+      height: 300px;
+  }
+    
+  
+}
+
+@media screen and (max-width: 500px){
+
+.Contact {
+  padding: 100px 60px 100px 60px;
+}
+}
+
+  

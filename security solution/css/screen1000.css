@@ -1,0 +1,24 @@
+@media screen and (max-width: 1000px){
+    .pera{
+        padding: 0 20px;
+    }
+    .home .content1 .pera h1 {
+        font-size: 3em;
+    }
+    .home .content1 .pera h1 span{
+        font-size: 24px;
+    }
+    .home .content1 .pera a{
+        font-size: 1em;
+    }
+    .home .content1 .pera p {
+        font-size: 16px;
+    }
+    .fbox{
+        height: 236px;
+    }
+    .solutions {
+        display: block;
+        height: 555hv;
+    }
+}

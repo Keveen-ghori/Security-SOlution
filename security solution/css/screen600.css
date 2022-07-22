@@ -1,0 +1,28 @@
+@media screen and (max-width: 600px){
+    .pera{
+        padding: 0 20px;
+    }
+    .content1{
+        padding: 50px 00px;
+    }
+    .home .content1 .pera h1 {
+        font-size: 40px;
+    }
+    .home .content1 .pera h1 span{
+        font-size: 20px;
+        font-weight: 600;
+    }
+    .home .content1 .pera a{
+        font-size: 12px;
+    }
+    .home .content1 .pera p {
+        font-size: 15px;
+    }
+    .slider-navigation{
+      margin-bottom: 40px;
+    }
+    .inp {
+        padding: 50px 0px 50px 0px;
+    }
+    
+}

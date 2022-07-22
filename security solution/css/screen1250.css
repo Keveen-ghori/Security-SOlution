@@ -1,0 +1,31 @@
+@media screen and (max-width: 1250px){
+    .wrapper nav{
+      max-width: 100%;
+      padding: 0 20px;
+    }
+    nav .content .links{
+      margin-left: 30px;
+    }
+    .content .links li a{
+      padding: 8px 13px;
+    }
+    .content .links li a,
+    .content .links li label{
+      color: #fff;
+      font-size: 17px;
+      font-weight: 500;
+      padding: 9px 10px;
+      border-radius: 5px;
+      transition: all 0.3s ease;
+    }
+    .wrapper .search-box{
+      max-width: calc(100% - 100px);
+    }
+    .wrapper .search-box input{
+      padding: 0 100px 0 15px;
+    }
+  }@media screen and (max-width: 1250px){
+    .pera{
+        padding: 0 100px;
+    }
+}
